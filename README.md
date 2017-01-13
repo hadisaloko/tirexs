@@ -3,6 +3,7 @@ https://github.com/roundscope/tirexs
 
 tirexs
 ======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hadisaloko/tirexs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 An Elixir based DSL for operating the ElasticSearch cluster related stuff, such as indexes, scoped queries and so on.
 
